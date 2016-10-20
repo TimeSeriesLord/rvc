@@ -1,2 +1,2 @@
 # rvc
-The RVC, REBOL and Red
+Rai, REBOL and the REBOL Clone Called Red
